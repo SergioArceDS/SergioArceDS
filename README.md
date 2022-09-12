@@ -13,7 +13,7 @@ Hi there, I'm **Sergio González**, a **PHP Developer** from Colombia.  Currentl
 **A little about me:**
 
 - 👨🏽‍💻 I’m currently working on my personal projects and learning about FrontEnd;
-- 🌱 I’m currently learning Laravel 8, 9; 
+- 🌱 I’m currently learning React.js; 
 - 🤔 My interests are finding new challenges and learning new technologies, I love to improve myself;
 - 💼 I’m pursuing a Software Development Technology;
 - 💬 Ask me about anything, I am happy to help;
@@ -27,7 +27,7 @@ Hi there, I'm **Sergio González**, a **PHP Developer** from Colombia.  Currentl
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
