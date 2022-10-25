@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi there, I'm **Sergio González**, a **PHP Developer** from Colombia.  Currently, I'm finishing my studies in Technology in Software Development. 
+Hi there, I'm **Sergio González**, a **BackEnd Developer** from Colombia.  Currently, I'm finishing my studies in Technology in Software Development. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
